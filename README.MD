@@ -13,4 +13,4 @@ CRIE UM COMMIT DA SEÇÃO "INFORMAÇÃO"
 - HTML
 - CSS
 - JavaScript
-- Git e GitHub
+- Git e GitHub 
